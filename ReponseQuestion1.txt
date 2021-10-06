@@ -1,0 +1,5 @@
+La fonction foo reçoit en paramètre un tableau multidimensionnel (un tableau contenant plusieurs tableaux, dans notre
+exemple, on peut parler d'intervalles).
+Foo permet de sortir une suite de tableaux qui se succèdent sauf s'ils ne sont pas compris dans un même intervalle.
+Les tableaux sorties auront en 1er valeur la plus minimal de l’ensemble des tableaux, et en 2eme valeurs la valeur
+la plus maximal de l’ensemble des tableaux
