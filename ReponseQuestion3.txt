@@ -1,0 +1,1 @@
+Le temps passé pour comprendre et codé la fonction foo a été de 1h20.
